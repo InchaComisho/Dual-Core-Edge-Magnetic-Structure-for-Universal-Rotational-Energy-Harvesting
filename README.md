@@ -283,6 +283,34 @@ From an Artificial Wisdom perspective, the system should be evaluated not only b
 
 ---
 
+## Global Adoption Scenario Simulation
+
+A scenario model exploring how global distributed energy supply could change if this open generator architecture were validated and widely adopted across multiple sectors.
+
+**Important:** This is a scenario model, not a forecast. All parameters are illustrative assumptions. No physical prototype has been validated. Output energy cannot exceed available mechanical input energy minus losses.
+
+Sectors modeled:
+- Urban drainage and building water flow
+- Agricultural irrigation and small canals
+- Small river and micro-hydro sites
+- Distributed vertical-axis wind installations
+- Coastal tidal and wave-assisted rotational systems
+
+Scenarios: conservative local adoption → moderate distributed adoption → accelerated open-hardware adoption → infrastructure-integrated adoption → unrealistic upper bound (stress test only, not a prediction).
+
+**Files:**
+- [`simulation/global_adoption_scenario.py`](simulation/global_adoption_scenario.py) — Python simulator (standard library + optional matplotlib)
+- [`docs/global-adoption-scenario.md`](docs/global-adoption-scenario.md) — Full documentation
+
+**Run:**
+```bash
+python simulation/global_adoption_scenario.py
+```
+
+Outputs: console ASCII table, `simulation/results/global_adoption_scenario.csv`, and optional PNG plots if matplotlib is installed.
+
+---
+
 ## Suggested Repository Structure for Future Work
 
 ```text

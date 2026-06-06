@@ -283,6 +283,34 @@ P_output <= P_mechanical - losses
 
 ---
 
+## 世界普及シナリオ・シミュレーション
+
+このオープン発電構造が検証・普及した場合に、世界の分散型エネルギー供給がどう変化しうるかを探るシナリオモデルです。
+
+**重要：** これはシナリオモデルであり、予測や予報ではありません。すべてのパラメータは例示的な仮定であり、実測値ではありません。物理試作の検証はまだ行われていません。出力エネルギーは、投入される機械的エネルギーから損失を引いた値を超えることはできません。
+
+モデル化されたセクター：
+- 都市排水・建物内水流
+- 農業用灌漑水路・小水路
+- 小河川・小水力サイト
+- 分散型垂直軸風力設備
+- 沿岸潮流・波力補助型回転システム
+
+シナリオ：保守的ローカル普及 → 中程度分散普及 → 加速オープンハードウェア普及 → インフラ統合普及 → 非現実的上限確認（ストレステスト専用、予測ではない）。
+
+**ファイル：**
+- [`simulation/global_adoption_scenario.py`](simulation/global_adoption_scenario.py) — Pythonシミュレーター（標準ライブラリ＋matplotlibオプション）
+- [`docs/global-adoption-scenario.md`](docs/global-adoption-scenario.md) — 完全なドキュメント（英語）
+
+**実行：**
+```bash
+python simulation/global_adoption_scenario.py
+```
+
+出力：コンソールASCIIテーブル、`simulation/results/global_adoption_scenario.csv`、matplotlibがインストールされていればPNGプロットも生成されます。
+
+---
+
 ## 今後の推奨リポジトリ構成
 
 ```text

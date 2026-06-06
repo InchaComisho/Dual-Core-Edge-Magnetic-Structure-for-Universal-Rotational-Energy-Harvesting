@@ -1,0 +1,1 @@
+# Dual-Core-Edge-Magnetic-Structure-for-Universal-Rotational-Energy-Harvesting

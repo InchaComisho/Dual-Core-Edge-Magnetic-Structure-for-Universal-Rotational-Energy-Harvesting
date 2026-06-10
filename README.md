@@ -281,6 +281,12 @@ From an Artificial Wisdom perspective, the system should be evaluated not only b
 - avoidance of exaggerated claims,
 - transparency of measurement.
 
+Related open energy concept:
+
+- [REIMEI-NOP: Natural-Origin Plasma Generator](https://github.com/InchaComisho/REIMEI-NOP-Natural-Origin-Plasma-Generator/blob/main/README.md) — A separate, unverified open hypothesis for nature-inspired plasma generation based on lightning-like pre-discharge processes, mist friction, spiral flow, charge separation, discharge, and possible auxiliary energy recovery. It is not a proven power generator.
+- [NOTE article: 雷の原理を模倣する自然起源プラズマ炉構想](https://note.com/inchacomusho/n/nf62145209118)
+- [Original open concept: REIMEI-NOP 技術設計書兼文明宣言](https://note.com/inchacomusho/n/n79be86605430)
+
 ---
 
 ## Global Adoption Scenario Simulation
@@ -381,7 +387,7 @@ See [LICENSE](LICENSE).
 
 ## Keywords
 
-Dual-core edge magnetic structure, magnetic generator, rotational energy harvesting, renewable energy generator, open invention, micro-hydro generator, vertical-axis wind turbine, tidal power, wave energy, distributed power generation, microgrid, electromagnetic induction, permanent magnet generator, non-contact magnetic coupling, open energy hardware, Natural-Complement Science, Artificial Wisdom
+Dual-core edge magnetic structure, magnetic generator, rotational energy harvesting, renewable energy generator, open invention, micro-hydro generator, vertical-axis wind turbine, tidal power, wave energy, distributed power generation, microgrid, electromagnetic induction, permanent magnet generator, non-contact magnetic coupling, open energy hardware, REIMEI-NOP, Natural-Origin Plasma Generator, nature-inspired engineering, lightning-inspired reactor, plasma generation, mist friction, spiral flow, charge separation, auxiliary energy recovery, Natural-Complement Science, Artificial Wisdom
 
 ## Hashtags
 

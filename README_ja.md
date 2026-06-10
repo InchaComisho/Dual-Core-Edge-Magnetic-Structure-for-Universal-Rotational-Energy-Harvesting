@@ -283,6 +283,7 @@ P_output <= P_mechanical - losses
 
 関連するオープンエネルギー構想：
 
+- [REIMEI 自然模倣型エネルギー・アーキテクチャ](https://github.com/InchaComisho/REIMEI-Nature-Inspired-Energy-Architecture/blob/main/README_ja.md) — Dual-Core 回転エネルギー回収、REIMEI-NOP、音波・振動・圧力水循環・熱排気・車両エネルギー回収、AIアンドロイド用エネルギーコア構想を整理する、未検証のオープン仮説・オープン発明のポータル。
 - [REIMEI-NOP：自然起源プラズマ生成炉構想](https://github.com/InchaComisho/REIMEI-NOP-Natural-Origin-Plasma-Generator/blob/main/README_ja.md) — 雷に似た放電前プロセス、ミスト摩擦、螺旋流、電荷分離、放電、補助エネルギー回収の可能性を扱う、別系統の未検証オープン仮説。完成した発電機ではありません。
 - [NOTE記事：雷の原理を模倣する自然起源プラズマ炉構想](https://note.com/inchacomusho/n/nf62145209118)
 - [元構想記事：REIMEI-NOP 技術設計書兼文明宣言](https://note.com/inchacomusho/n/n79be86605430)

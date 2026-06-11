@@ -393,3 +393,9 @@ python simulation/global_adoption_scenario.py
 ## ハッシュタグ
 
 #デュアルコア磁気発電 #回転エネルギー回収 #再生可能エネルギー #オープン発明 #小水力 #風力発電 #潮流発電 #波力発電 #分散型電源 #マイクログリッド #電磁誘導 #オープンエネルギーハードウェア #自然補完科学 #人工叡智
+
+---
+
+## 関連モビリティ・環境適応車両構想
+
+* [Ultimate Hybrid Vehicle UHV](https://github.com/InchaComisho/Ultimate-Hybrid-Vehicle-UHV) — AER-Loop走行風エネルギー回収、センターミスト冷却、後付け車両モジュールを統合する環境適応型モビリティ構想。

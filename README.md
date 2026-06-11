@@ -393,3 +393,9 @@ Dual-core edge magnetic structure, magnetic generator, rotational energy harvest
 ## Hashtags
 
 #DualCoreMagneticGenerator #RotationalEnergyHarvesting #RenewableEnergy #OpenInvention #MicroHydro #WindPower #TidalPower #WaveEnergy #DistributedEnergy #Microgrid #ElectromagneticInduction #OpenEnergyHardware #NaturalComplementScience #ArtificialWisdom
+
+---
+
+## Related Mobility and Climate-Adaptive Vehicle Concept
+
+* [Ultimate Hybrid Vehicle UHV](https://github.com/InchaComisho/Ultimate-Hybrid-Vehicle-UHV) — A climate-adaptive mobility concept integrating AER-Loop airflow energy recovery, center-mist evaporative cooling, and retrofit vehicle modules.

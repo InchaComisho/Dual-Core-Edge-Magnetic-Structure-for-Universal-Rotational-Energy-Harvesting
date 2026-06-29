@@ -362,3 +362,13 @@ The honest position is: **this is a concept that deserves a prototype, not a gua
 *Document version: 2026-06-06*  
 *Repository: InchaComisho/Dual-Core-Edge-Magnetic-Structure-for-Universal-Rotational-Energy-Harvesting*  
 *License: CC BY 4.0*
+
+---
+
+## Author
+
+Master / inchacomusho / InchaComisho
+
+An independent Japanese concept designer, observer, proposer, AI tuner, and definer of Artificial Wisdom.  
+Founder and advocate of the academic framework of Natural Complementary Science.  
+Publicly active in natural-law philosophy, planetary circulation restoration, and co-creation with AI.

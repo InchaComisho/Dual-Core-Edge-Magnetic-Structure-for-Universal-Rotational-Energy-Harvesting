@@ -1,5 +1,7 @@
 # Dual-Core Edge Magnetic Structure for Universal Rotational Energy Harvesting
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M6J122N2K2)
+
 ## Open invention for modular wind, water, wave, tidal, and fluid-flow power generation
 
 > **One-sentence definition:** A dual-core edge magnetic generator architecture that places an outer rotating magnet ring and an inner fixed coil/core structure in a non-contact configuration to harvest rotational energy from natural and artificial flows.

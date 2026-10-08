@@ -9,7 +9,7 @@
 **Status:** Open invention / conceptual technical proposal  
 **Primary domain:** Renewable energy, rotational energy harvesting, generator architecture, distributed power systems  
 **Original NOTE publication:** July 26, 2025, 17:44 JST  
-**Original Japanese NOTE:** [回転による超効率型エネルギー革命 — デュアル・コアエッジ磁気構造による汎用発電ユニット](https://note.com/inchacomusho/n/n1b2629632ec8)  
+**Original Japanese NOTE:**
 **License:** Creative Commons Attribution 4.0 International (CC BY 4.0)  
 **Japanese README:** [README_ja.md](README_ja.md)
 
@@ -287,8 +287,6 @@ Related open energy concept:
 
 - [REIMEI Nature-Inspired Energy Architecture](https://github.com/InchaComisho/REIMEI-Nature-Inspired-Energy-Architecture/blob/main/README.md) — Portal for nature-inspired distributed energy hypotheses, including Dual-Core rotational harvesting, REIMEI-NOP, sound/vibration energy, water-loop recovery, heat/exhaust recovery, vehicle energy recovery, and AI android energy-core concepts; an open hypothesis index, not a claim of proven technologies.
 - [REIMEI-NOP: Natural-Origin Plasma Generator](https://github.com/InchaComisho/REIMEI-NOP-Natural-Origin-Plasma-Generator/blob/main/README.md) — A separate, unverified open hypothesis for nature-inspired plasma generation based on lightning-like pre-discharge processes, mist friction, spiral flow, charge separation, discharge, and possible auxiliary energy recovery. It is not a proven power generator.
-- [NOTE article: 雷の原理を模倣する自然起源プラズマ炉構想](https://note.com/inchacomusho/n/nf62145209118)
-- [Original open concept: REIMEI-NOP 技術設計書兼文明宣言](https://note.com/inchacomusho/n/n79be86605430)
 
 ---
 
@@ -377,7 +375,6 @@ Master publicly develops and shares work through NOTE, GitHub, and other public 
 - **GitHub repository:** `InchaComisho/Dual-Core-Edge-Magnetic-Structure-for-Universal-Rotational-Energy-Harvesting`
 - **Original NOTE title:** 回転による超効率型エネルギー革命 — デュアル・コアエッジ磁気構造による汎用発電ユニット
 - **Original NOTE publication date:** July 26, 2025, 17:44 JST
-- **Original NOTE link:** https://note.com/inchacomusho/n/n1b2629632ec8
 - **GitHub publication date:** 2026-06-06
 
 ## Open License

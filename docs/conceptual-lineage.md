@@ -44,7 +44,6 @@ thermal power retrofit
 
 **Title:** 概要：逆位相反転コイルでのモーター内エネルギー回収とは？  
 **Published:** July 21, 2025  
-**URL:** https://note.com/inchacomusho/n/n92aaed58fca4
 
 This article frames inverse-phase coil recovery as a way to recover part of the rotational energy or back-EMF behavior associated with motor operation. It also compares the idea to known mechanisms such as bicycle hub dynamos, regenerative braking, EV energy recovery, and regenerative inverters.
 
@@ -60,7 +59,6 @@ Relevance to this repository:
 
 **Title:** 提案書：Dual Core-Edge 磁気発電構造搭載 垂直軸タービン発電機構  
 **Published:** July 25, 2025  
-**URL:** https://note.com/inchacomusho/n/n277ecd47f965
 
 This article introduces a vertical-axis turbine generator using both a central-axis generation mechanism and an outer-ring generation mechanism. It describes a dual generation concept in which the center axis and outer wall/ring are used simultaneously.
 
@@ -76,7 +74,6 @@ Relevance to this repository:
 
 **Title:** エネルギー自立循環構造「逆位相コイル発電ループ」  
 **Published:** July 29, 2025  
-**URL:** https://note.com/inchacomusho/n/n430756cc1fb9
 
 This article describes a loop structure in which a generation-side coil recovers energy, the output is rectified, boosted, stabilized, temporarily stored, and then used to supplement the input side.
 
@@ -92,7 +89,6 @@ Relevance to this repository:
 
 **Title:** 多層型エネルギー回収火力発電システム  
 **Published:** July 30, 2025  
-**URL:** https://note.com/inchacomusho/n/nac7d313271f2
 
 This article presents a thermal power plant retrofit model using vertical-axis structure, spiral turbine blades, fixed coils, rotating magnets, multi-stage generation, distributed batteries, transformation, rectification, and grid output.
 
@@ -107,11 +103,6 @@ Relevance to this repository:
 ## 3. Additional related NOTE articles
 
 The following links were also part of the same energy-recovery concept series or related design stream:
-
-- https://note.com/inchacomusho/n/n8cc314777f61
-- https://note.com/inchacomusho/n/n1bd8d48a7056
-- https://note.com/inchacomusho/n/n2838bd2a7f3b
-- https://note.com/inchacomusho/n/n1b2629632ec8
 
 These should be treated as part of the broader open-invention lineage. Specific technical claims from these articles should be evaluated separately before being used as engineering assumptions.
 

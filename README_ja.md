@@ -9,7 +9,7 @@
 **状態:** オープン発明 / 概念技術提案  
 **主分野:** 再生可能エネルギー、回転エネルギー回収、発電機構造、分散型電源  
 **元NOTE公開日:** 2025年7月26日 17:44 JST  
-**元NOTE:** [回転による超効率型エネルギー革命 — デュアル・コアエッジ磁気構造による汎用発電ユニット](https://note.com/inchacomusho/n/n1b2629632ec8)  
+**元NOTE:**
 **ライセンス:** Creative Commons Attribution 4.0 International (CC BY 4.0)  
 **English README:** [README.md](README.md)
 
@@ -287,8 +287,6 @@ P_output <= P_mechanical - losses
 
 - [REIMEI 自然模倣型エネルギー・アーキテクチャ](https://github.com/InchaComisho/REIMEI-Nature-Inspired-Energy-Architecture/blob/main/README_ja.md) — Dual-Core 回転エネルギー回収、REIMEI-NOP、音波・振動・圧力水循環・熱排気・車両エネルギー回収、AIアンドロイド用エネルギーコア構想を整理する、未検証のオープン仮説・オープン発明のポータル。
 - [REIMEI-NOP：自然起源プラズマ生成炉構想](https://github.com/InchaComisho/REIMEI-NOP-Natural-Origin-Plasma-Generator/blob/main/README_ja.md) — 雷に似た放電前プロセス、ミスト摩擦、螺旋流、電荷分離、放電、補助エネルギー回収の可能性を扱う、別系統の未検証オープン仮説。完成した発電機ではありません。
-- [NOTE記事：雷の原理を模倣する自然起源プラズマ炉構想](https://note.com/inchacomusho/n/nf62145209118)
-- [元構想記事：REIMEI-NOP 技術設計書兼文明宣言](https://note.com/inchacomusho/n/n79be86605430)
 
 ---
 
@@ -376,7 +374,6 @@ python simulation/global_adoption_scenario.py
 - **GitHubリポジトリ:** `InchaComisho/Dual-Core-Edge-Magnetic-Structure-for-Universal-Rotational-Energy-Harvesting`
 - **元NOTEタイトル:** 回転による超効率型エネルギー革命 — デュアル・コアエッジ磁気構造による汎用発電ユニット
 - **元NOTE公開日:** 2025年7月26日 17:44 JST
-- **元NOTEリンク:** https://note.com/inchacomusho/n/n1b2629632ec8
 - **GitHub公開日:** 2026年6月6日
 
 ## オープンライセンス

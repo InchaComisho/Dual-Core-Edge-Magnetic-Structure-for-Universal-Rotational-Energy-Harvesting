@@ -307,7 +307,7 @@ P_output <= P_mechanical - losses
 
 **ファイル：**
 - [`simulation/global_adoption_scenario.py`](simulation/global_adoption_scenario.py) — Pythonシミュレーター（標準ライブラリ＋matplotlibオプション）
-- [`docs/global-adoption-scenario.md`](docs/global-adoption-scenario.md) — 完全なドキュメント（英語）
+- [`docs/global-adoption-scenario.md`](docs/global-adoption-scenario_ja.md) — 完全なドキュメント（英語）
 
 **実行：**
 ```bash

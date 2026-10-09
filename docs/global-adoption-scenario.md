@@ -1,4 +1,7 @@
 # Global Adoption Scenario Simulation
+
+[日本語版はこちら / Japanese version](global-adoption-scenario_ja.md)
+
 ## Dual-Core Edge Magnetic Structure for Universal Rotational Energy Harvesting
 
 ---

@@ -11,7 +11,7 @@
 **元NOTE公開日:** 2025年7月26日 17:44 JST  
 **元NOTE:**
 **ライセンス:** Creative Commons Attribution 4.0 International (CC BY 4.0)  
-**English README:** [README.md](README.md)
+**English README:** [README.md](README_ja.md)
 
 ---
 

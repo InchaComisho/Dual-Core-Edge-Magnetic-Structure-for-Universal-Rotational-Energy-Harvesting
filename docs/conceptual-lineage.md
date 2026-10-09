@@ -1,5 +1,7 @@
 # Conceptual Lineage: From Thermal Power Plant Retrofit to Universal Rotational Energy Harvesting
 
+[日本語版はこちら / Japanese version](conceptual-lineage_ja.md)
+
 ## Source NOTE series and design evolution
 
 This repository is not an isolated generator idea. The **Dual-Core Edge Magnetic Structure for Universal Rotational Energy Harvesting** developed from a series of Japanese NOTE articles on thermal power plant retrofitting, inverse-phase coil recovery, motor energy recovery, vertical-axis turbine generation, and open-invention energy circulation.
